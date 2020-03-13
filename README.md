@@ -1,13 +1,18 @@
 # CETIC presentations index
 
-Index of reveal.js presentations deployed on OpenShift at CETIC.
+## Goal
 
-See it in action at https://presentations.cetic.be
+Index of reveal.js presentations at CETIC.
 
-### References
+These slides are publicly available at https://presentations.cetic.be
 
-* https://github.com/hakimel/reveal.js/
+## Reveal.js
+
+This presentation is based on the CETIC reveal theme https://git.cetic.be/communication/revealjs_template
+
+It uses the reveal.js framework: https://github.com/hakimel/reveal.js/
 
 ### Authors
 
 * **Sebastien Dupont** : sebastien.dupont@cetic.be
+* **Alexandre Nuttinck** : alexandre.nuttinck@cetic.be
